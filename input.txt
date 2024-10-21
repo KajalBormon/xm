@@ -1,0 +1,22 @@
+//rsa
+p=13,q=23
+e=5
+//autokey
+attack is today
+key:12
+//keyed
+enemy attacks tonight
+//keyless
+meet me at the park
+//vigenere
+she is listening
+//playfair
+hello
+//hill
+“We live in an insecure world”
+[3 2]
+5 7
+The ciphertext is then "IUVAFSLDNNLDWMCOTKGMCHEZ", in which the last character is a bogus character.
+//additive:15
+//multipli:7
+//affine:7 2
